@@ -1,4 +1,4 @@
-This is a repository which works through the FreeCodeCamp 'Graph Algorithms for Technical Interviews' exercises and notes.
+This is a repository which works through the FreeCodeCamp 'Graph Algorithms for Technical Interviews' exercises and notes.<br>
 You can find the video here: https://www.youtube.com/watch?v=tWVWeAqZ0WU
 
 There are notes on each presentation in the video and the answers to the exercsises are written at the bottom of each notebook in python (these were hitherto only available in JavaScript).
