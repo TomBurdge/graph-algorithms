@@ -1,4 +1,4 @@
-def buildgraph(edges, undirected=False):
+def build_graph(edges, undirected=False):
     graph = {}
     
     # Generate a dictionary with all the nodes
