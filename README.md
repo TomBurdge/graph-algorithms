@@ -5,3 +5,4 @@ There are notes on each presentation in the video and the answers to the exercsi
 
 For each sub-section, or exercise, of the video I have created an accompanying branch.
 Each branch contains only a Jupyter Notebook, which works through that exercise. The exception is 6-shortest-path, which imports a function which is reused from a previous exercise.
+The main branch includes a very quick introduction to graphs.
